@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="etc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/byte-buddy-1.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/hibernate-core-5.4.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/jandex-2.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/54292/Downloads/required/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
