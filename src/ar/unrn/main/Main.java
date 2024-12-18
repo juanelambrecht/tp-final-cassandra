@@ -5,7 +5,7 @@ import java.util.Arrays;
 import ar.unrn.tp.cassandra.CassandraDB;
 import ar.unrn.tp.web.WebAPI;
 
-public class Main {
+public class Main { 
 
 	public static void main(String[] args) {
 		// Crear una instancia de la conexión a Cassandra
